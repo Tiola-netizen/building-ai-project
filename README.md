@@ -5,11 +5,6 @@ AI-powered dashboard for neurodivergent professionals - Building AI course proje
 \# NeuroFlow AI - Your Adaptive Work Companion
 
 
-
-Building AI course project
-
-
-
 \## Summary
 
 
