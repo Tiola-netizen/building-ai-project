@@ -6,13 +6,11 @@ AI-powered dashboard for neurodivergent professionals - Building AI course proje
 
 
 \## Summary
-
 NeuroFlow AI is an intelligent dashboard designed for neurodivergent professionals who struggle with task management, project planning, and keeping up with rapidly evolving industries. It serves as a "second brain" - a centralized command center where users can dump all their thoughts, tasks, and ideas, while AI automatically organizes, prioritizes, and helps execute them through personalized workflows and learning resources.
 
 
 
 \## Background
-
 Neurodivergent professionals, particularly those with ADHD, autism, or executive function challenges, face unique obstacles in fast-paced work environments:
 
 
@@ -38,7 +36,6 @@ Neurodivergent professionals, particularly those with ADHD, autism, or executive
 
 
 \## How is it used?
-
 NeuroFlow AI is designed for daily use by neurodivergent professionals across any industry, though it's particularly valuable in fast-paced, evolving fields like technology, insurance, finance, and healthcare.
 
 
